@@ -1,5 +1,5 @@
 DAFNetworking
 =============
 
-1. For compatibility with iOS 5 or Mac OS X 10.7, use the latest 1.x release.
-2. For some SDK, so changed name.
+1. 在做一个SDK开发的时候用到的AF, 需要从5.0开始支持，所以也就要用到AF1.x版本了。
+2. SDK的开发，避免与应用使用AF发生冲突，所以简单的将文件类名做了修改。
